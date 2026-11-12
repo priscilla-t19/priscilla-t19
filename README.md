@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Priscilla 👾
 
-<!--
-**priscilla-t19/priscilla-t19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student @ University of Botswana 
 
-Here are some ideas to get you started:
+I build things, break things, fix them, and occasionally make them look cool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Into **Software Engineering, FinTech, Cybersecurity & AI**.
+
+🚀 **Some things I've built:**
+- 🗳️ **UB eBallot** — Making student elections digital.
+- 👕 **GOUF Republic** — Bringing Botswana streetwear to the web.
+
+🛠️ **Currently cooking:** HirePortal AI, a Restaurant Management System & more ideas that somehow keep turning into repositories.
+
+🐍 Python • JavaScript • React • Flask • FastAPI • PostgreSQL
+
+*Still learning. Always building. Never short on ideas.* ⚡
